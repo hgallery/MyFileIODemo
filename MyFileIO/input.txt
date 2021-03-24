@@ -1,0 +1,4 @@
+line 0: some text type:veggie name:onion price:1.69
+line 1: some text type:veggie name:celery price:1.89
+line 2: some text type:fruit name:orange price:6.89
+line 3: some text type:dessert name:ice-cream price:4.99
